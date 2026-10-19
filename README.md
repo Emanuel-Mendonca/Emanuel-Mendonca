@@ -7,8 +7,9 @@ Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) com experiência
 🌐 **Portfólio:** https://emanuel-mendonca.github.io
 
 ## 🔭 Projetos em destaque
-- **moneyflow**: gestão financeira pessoal (receitas, despesas, metas e projeções).
-- **vortexcart**: catálogo e checkout de e-commerce validado com BDD e automação E2E.
+- **[vortexcart](https://github.com/Emanuel-Mendonca/vortexcart)**: app mobile (React Native + Expo, TypeScript) para registrar compras de mercado e ler o QR Code do cupom fiscal.
+- **ClickBurger**: sistema distribuído para hamburguerias, com painel web (React 19) e app mobile conectados em tempo real à API em .NET 8. Projeto acadêmico da PUC Minas.
+- **Orbis PDV**: ponto de venda integrado ao controle de estoque, com dashboards e indicadores. Projeto acadêmico da PUC Minas.
 
 ## 🛠️ Ferramentas e tecnologias
 - **Qualidade e testes:** Cypress, Robot Framework, BDD/Gherkin, testes funcionais e de regressão
@@ -20,4 +21,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas) com experiência
 Segurança e validação de APIs, CI/CD para QA com GitHub Actions, Clean Architecture e modelagem de sistemas.
 
 ## 📫 Contato
-[LinkedIn](https://linkedin.com/in/emanuel-mendonca) · [Portfólio](https://emanuel-mendonca.github.io)
+[LinkedIn](https://www.linkedin.com/in/emanuel-mendoncaa/) · [E-mail](mailto:emanueldh597@gmail.com) · [Portfólio](https://emanuel-mendonca.github.io)
