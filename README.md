@@ -132,11 +132,31 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 
 ## Cursos e certificações
 
-- **Robot Framework: Automatizando Testes no Padrão BDD** — Alura
-- **Cypress: Automatizando Testes E2E** — Alura
-- **Git e GitHub: Compartilhando e Colaborando em Projetos** — Alura
-- **Engenharia de Prompt para Engenheiros de Software** — MBA USP/Esalq
-- **Scrum e Kanban: Metodologias ágeis** — Alura
+**Tecnologia e QA**
+- [Robot Framework: Automatizando Testes no Padrão BDD](https://cursos.alura.com.br/certificate/25364b02-79b8-4db3-9c59-e631fe1f36b8?lang) — Alura • mar. 2025
+- [Cypress: Automatizando Testes E2E](https://cursos.alura.com.br/certificate/055c41d4-4671-4f20-b4bf-d41ed8bb3d04?lang) — Alura • mar. 2025
+- [Quality Assurance: Plano de Testes e Gestão de Bugs](https://cursos.alura.com.br/certificate/e591088b-8f95-4866-bfc3-ceec791b202c?lang) — Alura • fev. 2025
+- [Git e GitHub: Compartilhando e Colaborando em Projetos](https://cursos.alura.com.br/certificate/d667aeba-a929-48cf-847d-0d2ff807b50d?lang) — Alura • mar. 2025
+- [Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/certificate/2dbe403a-5606-4046-91fb-ca3f3ee1728d?lang) — Alura • mar. 2025
+- Engenharia de Prompt para Engenheiros de Software — MBA USP/Esalq • mar. 2026
+
+**Agilidade**
+- [Kanban: Análises para Implementação](https://cursos.alura.com.br/certificate/7e59b25e-4cc2-4c93-a1f8-62439953bb7b?lang) — Alura • dez. 2024
+- Scrum: Agilidade em Seu Projeto — Alura • dez. 2024
+- [Equipes Ágeis: Organizando os Papéis em Uma Equipe](https://cursos.alura.com.br/certificate/077a1bc5-df0a-4075-9a7f-98ce26d12328?lang) — Alura • nov. 2024
+- [Escalando Equipes Ágeis: Como Levar a Agilidade Adiante na Organização](https://cursos.alura.com.br/certificate/2d1c1d4e-243a-4e2b-9621-52e2ebe30c01?lang) — Alura • nov. 2024
+
+**PUC Minas** (verificação em [web.sistemas.pucminas.br/GAD/DOC/Verificador](https://web.sistemas.pucminas.br/GAD/DOC/Verificador))
+- Qualificação Profissional de Nível Tecnológico em Desenvolvedor de Software • ago. 2025 • código `AA785FCA9CFC37FB982FBFDF3143587C`
+- Qualificação Profissional de Nível Tecnológico em Analista de Software • jul. 2026 • código `7705137DBC725C45C880DFADAF7ACF75`
+
+**Vendas e gestão**
+- Certificado para Software de Sales HubSpot — HubSpot • jan. 2025
+- Planejamento Estratégico — Grupo Voitto • abr. 2024
+- Gestão de Pessoas com Ênfase em Liderança Organizacional — Escola Conquer • set. 2023
+- Gestão de Pré-Venda e Capacitação em Pré-Venda — Exact Sales • nov. 2022
+- Resolução de Problema — Ganbatte Consultoria & Treinamento • dez. 2021
+- Estratégia para Aumentar Receitas — Grupo Voitto • jul. 2021
 
 ---
 
