@@ -160,12 +160,19 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 
 ## Fora do código
 
-Atrás de todo teste bem feito existe uma pessoa. Fora do computador, curto todos os tipos de esporte que envolvem natureza: trekking, mountain bike e downhill (cheguei a competir em alguns campeonatos). Trabalhei por quase 3 anos como bartender no [Espaço Goma](https://www.instagram.com/espacogoma/) e gosto de estar perto dos amigos e da família, em lugares onde dá para trocar experiências.
+Atrás de todo teste bem feito existe uma pessoa. Fora da tela, sou mais de montanha, de balcão de bar, de mesa cheia e de conversa boa.
+
+**Onde eu recarrego.** É na natureza que eu recarrego as energias. Gosto de estar ao ar livre, praticar esportes e viver experiências novas. Já participei de alguns campeonatos, mas, mais do que competir, gosto das histórias que ficam pelo caminho, principalmente quando as coisas não saem como planejado. Já improvisei uma refeição para todo mundo com o que tínhamos à mão e já demos um jeito quando o cabo do acelerador estourou no meio da viagem. Acho que levo um pouco disso para o trabalho também: quando algo dá errado, busco uma solução, me adapto e sigo em frente.
+
+**Antes da tecnologia.** Foram mais de 3 anos trabalhando como bartender no [Espaço Goma](https://www.instagram.com/espacogoma/), ao lado de uma equipe que fez parte da minha história. Mais do que servir drinks, foi uma experiência que me ensinou muito sobre lidar com pessoas, trabalhar em equipe e saber se virar em diferentes situações.
+
+**Perto de quem importa.** Família e amigos são o meu chão. É com eles que eu me sinto em casa. Gosto de estar por perto, de trocar experiências e de lembrar que nenhuma conquista tem graça sem gente para dividir.
 
 <p>
-  <img src="pessoal/trilha-1.jpg" height="260" alt="Nascer do sol na montanha">
-  <img src="pessoal/downhill.jpg" height="260" alt="Pódio de downhill">
-  <img src="pessoal/goma.jpg" height="260" alt="Espaço Goma">
+  <img src="pessoal/nat-01.jpg" height="220" alt="Pódio de downhill">
+  <img src="pessoal/nat-02.jpg" height="220" alt="Corrida de trilha">
+  <img src="pessoal/nat-03.jpg" height="220" alt="Todo mundo na pedra">
+  <img src="pessoal/goma.jpg" height="220" alt="Espaço Goma">
 </p>
 
 ---
