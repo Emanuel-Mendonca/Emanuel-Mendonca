@@ -2,7 +2,7 @@
 
 # Olá, sou o Emanuel 👋
 
-**Analista de QA Júnior na DDMX • São Paulo, Brasil**
+**Analista de Sistemas Jr na DDMX • São Paulo, Brasil**
 
 Profissional de Quality Assurance apaixonado por garantir que o software entregue valor real ao usuário. Planejo e executo testes funcionais, de regressão e E2E, acompanho bugs e atuo como ponte entre Produto, Comercial e Suporte Técnico. Venho de vendas e administração, e estudo Análise e Desenvolvimento de Sistemas na PUC Minas.
 
