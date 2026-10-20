@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.svg" alt="Quality Assurance: Analista de Testes, Automação de Testes, Métodos Ágeis" width="100%"></p>
+
 # Olá, sou o Emanuel 👋
 
 **Analista de QA Júnior na DDMX • São Paulo, Brasil**
