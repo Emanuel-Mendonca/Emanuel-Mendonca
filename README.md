@@ -24,9 +24,10 @@ Antes de migrar para tecnologia, trabalhei com vendas e administração, o que t
 
 ## Experiência e formação
 
-- **[DDMX](https://ddmx.com.br) — Analista de Sistemas Jr** (atual): testes funcionais, de regressão e E2E; acompanhamento de bugs; validação de provas de conceito; documentação de produto; comunicação entre Produto, Comercial e Suporte Técnico.
-- **Vendas e Administração** (trajetória anterior): comunicação clara, foco no cliente e visão de negócio.
+- **[DDMX](https://ddmx.com.br) — Analista de Sistemas Jr** (na empresa desde nov. 2022): análise das soluções da plataforma, levantamento e validação de requisitos, testes funcionais, de regressão e E2E, validação de provas de conceito e manuais para o usuário final. Trajetória na empresa: assistente comercial (nov. 2022), assistente técnico comercial (out. 2023), assistente de qualidade e produto (jul. 2025) e analista de sistemas jr (set. 2026).
+- **Antes da DDMX — Vendas e Administração** (2018 a 2022): vendedor na Lopes Material de Construção (mai. 2018 a dez. 2021) e assistente administrativo na Construita (mar. a out. 2022).
 - **Análise e Desenvolvimento de Sistemas — PUC Minas** (em andamento).
+- **Engenharia Mecânica — FEPI, Centro Universitário de Itajubá** (jan. 2019 a dez. 2023, graduação interrompida, não concluída).
 
 Mais detalhes em [Experiência no portfólio](https://emanuel-mendonca.github.io/#experience).
 
@@ -43,18 +44,18 @@ Mais detalhes em [Experiência no portfólio](https://emanuel-mendonca.github.io
 
 Cada projeto tem galeria de telas, stack completa e link do repositório no portfólio: **[ver projetos com telas](https://emanuel-mendonca.github.io/#projects)**.
 
-- **Garçom** — pedidos de restaurante em tempo real (PUC Minas, Eixo 4). O cliente pede pelo app, o pedido aparece na cozinha e o status acompanha até o fechamento da conta. C#/ASP.NET Core 8, MongoDB Atlas, SignalR, JWT, React 19, React Native. **18/18 testes unitários, 5/5 fluxos E2E no mobile (Maestro) e E2E web com Playwright no CI.**
-- **Devish Receitas** — app de receitas com feed, favoritos e lista de compras automática. React Native + Expo, em equipe remota com Kanban.
-- **FinanShare** — aplicação C# com back-end na Microsoft Azure e protótipo no Figma. Concluído em equipe reduzida (de 6 para 3 integrantes), com foco em resiliência e entrega sob prazo.
-- **[Controle da Compra (Vortex Cart)](https://github.com/Emanuel-Mendonca/vortexcart)** — registro de compras de mercado e comparação de gastos entre supermercados. Versão web concluída; mobile em React Native em desenvolvimento.
-- **Orbis** — PDV e gestão de estoque, com parceria da [Gran Burguer](https://www.granburguer.com.br/). PHP 8.4 + Laravel 13, React 19, integração com o UaiRango. **304 testes de backend e 255 de frontend, todos aprovados.**
+- **Garçom** — pedidos de restaurante em tempo real (PUC Minas, Eixo 4). O cliente pede pelo app, o pedido aparece na cozinha e o status acompanha até o fechamento da conta. C#/ASP.NET Core 8, MongoDB Atlas, SignalR, JWT, React 19, React Native. **18/18 testes unitários, 5/5 fluxos E2E no mobile (Maestro) e E2E web com Playwright no CI.** Minha participação: testes unitários (xUnit), testes E2E (Playwright e Maestro), telas web e mobile e API em C#.
+- **Devish Receitas** — app de receitas com feed, favoritos e lista de compras automática. React Native + Expo, em equipe remota com Kanban. Minha participação: telas e componentes, funcionalidades, testes e organização do time com Kanban.
+- **FinanShare** — aplicação C# com back-end na Microsoft Azure e protótipo no Figma. Concluído em equipe reduzida (de 6 para 3 integrantes). Minha participação: back-end em C#, protótipo no Figma, testes e documentação.
+- **[Controle da Compra (Vortex Cart)](https://github.com/Emanuel-Mendonca/vortexcart)** — registro de compras de mercado e comparação de gastos entre supermercados. Versão web concluída; mobile em React Native em desenvolvimento. Projeto individual, desenvolvido por mim.
+- **Orbis** — PDV e gestão de estoque, com parceria da [Gran Burguer](https://www.granburguer.com.br/). PHP 8.4 + Laravel 13, React 19, integração com o UaiRango. **304 testes de backend e 255 de frontend, todos aprovados.** Minha participação: back-end em PHP/Laravel, front-end em React, testes (PHPUnit, Vitest e Playwright) e integração com o UaiRango, Docker e publicação.
 
 ## Habilidades
 
 | Área | Ferramentas e tecnologias |
 |---|---|
-| **Testes** | Funcionais, regressão, E2E, casos de teste, gestão de bugs |
-| **Automação** | Cypress, Robot Framework, Playwright, Maestro, BDD, xUnit, PHPUnit, Vitest |
+| **Testes** | Funcionais, regressão, E2E, casos de teste, gestão de bugs, testes de API (Postman) |
+| **Automação** | Nos projetos da PUC: Playwright, Maestro, xUnit, PHPUnit, Vitest. Em estudo (cursos e projeto pessoal): Cypress, Robot Framework, BDD |
 | **Linguagens** | C#, PHP, TypeScript, JavaScript |
 | **Plataformas** | ASP.NET Core 8, Laravel 13, React 19, React Native, Expo |
 | **Tempo real e nuvem** | SignalR, JWT, MongoDB Atlas, MySQL, Docker, Azure, Vercel, Railway |
