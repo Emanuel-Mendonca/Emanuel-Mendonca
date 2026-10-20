@@ -158,6 +158,18 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 - Resolução de Problema — Ganbatte Consultoria & Treinamento • dez. 2021
 - Estratégia para Aumentar Receitas — Grupo Voitto • jul. 2021
 
+## Fora do código
+
+Atrás de todo teste bem feito existe uma pessoa. Fora do computador, curto todos os tipos de esporte que envolvem natureza: trekking, mountain bike e downhill (cheguei a competir em alguns campeonatos). Trabalhei por quase 3 anos como bartender no [Espaço Goma](https://www.instagram.com/espacogoma/) e gosto de estar perto dos amigos e da família, em lugares onde dá para trocar experiências.
+
+<p>
+  <img src="pessoal/trilha-1.jpg" height="260" alt="Nascer do sol na montanha">
+  <img src="pessoal/downhill.jpg" height="260" alt="Pódio de downhill">
+  <img src="pessoal/goma.jpg" height="260" alt="Espaço Goma">
+</p>
+
+---
+
 ---
 
 ## Vamos conversar?
