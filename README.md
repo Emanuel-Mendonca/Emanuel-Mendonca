@@ -12,19 +12,19 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Profissional de Quality Assurance apaixonado por garantir que o software entregue valor real ao usuário. Planejo e executo testes funcionais, de regressão e end-to-end, acompanho bugs, valido provas de conceito e documento produtos. Atuo como ponte de comunicação entre Produto, Comercial e Suporte Técnico em ambiente ágil.
 
 Antes de migrar para tecnologia, trabalhei com vendas e administração, o que trouxe comunicação clara, foco no cliente e visão de negócio para a minha forma de testar.
 
-🎯 **Objetivo:** crescer como Analista de QA / Testes, evoluindo em automação (Selenium, Playwright e testes de API) e contribuindo para uma cultura de qualidade desde o início do desenvolvimento.
+**Objetivo:** crescer como Analista de QA / Testes, evoluindo em automação (Selenium, Playwright e testes de API) e contribuindo para uma cultura de qualidade desde o início do desenvolvimento.
 
-🌐 **Portfólio completo:** https://emanuel-mendonca.github.io
+**Portfólio completo:** https://emanuel-mendonca.github.io
 
 ---
 
-## 💼 Experiência e formação
+## Experiência e formação
 
 | | |
 |---|---|
@@ -32,7 +32,7 @@ Antes de migrar para tecnologia, trabalhei com vendas e administração, o que t
 | **Vendas e Administração** *(trajetória anterior)* | Comunicação clara, foco no cliente e visão de negócio, que levo para a área de qualidade. |
 | **Análise e Desenvolvimento de Sistemas — PUC Minas** *(em andamento)* | Graduação com projetos práticos em equipe. |
 
-## 💬 Recomendação
+## Recomendação
 
 > *"Profissional de grande senso de responsabilidade. Compromissado, absorve conhecimento com naturalidade e se adapta rapidamente a novos desafios. Perfil técnico/comercial de grande valia para a empresa. Um excelente perfil profissional para a equipe comercial."*
 >
@@ -41,7 +41,7 @@ Antes de migrar para tecnologia, trabalhei com vendas e administração, o que t
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 ### 1. Garçom — pedidos de restaurante em tempo real
 *PUC Minas • Eixo 4 • Aplicação Distribuída* • [repositório](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-1-e4-infra-t1-garcom)
@@ -50,7 +50,7 @@ O cliente faz o pedido pelo app, ele aparece em tempo real na cozinha e o status
 
 - **Stack:** C# / ASP.NET Core 8, MongoDB Atlas, SignalR, JWT, React 19 + TypeScript + Vite, React Native + Expo
 - **Testes e entrega:** xUnit, Playwright, Maestro, GitHub Actions, Vercel, Railway
-- ✅ **Resultados:** 18/18 testes unitários aprovados, 5/5 fluxos E2E no mobile validados (Maestro) e suíte E2E web com Playwright rodando no CI.
+- **Resultados:** 18/18 testes unitários aprovados, 5/5 fluxos E2E no mobile validados (Maestro) e suíte E2E web com Playwright rodando no CI.
 
 <p>
   <img src="screens/garcom-m1.jpg" width="130" alt="Garçom: início no mobile">
@@ -78,7 +78,7 @@ Feed estilo rede social, área de exploração, criação de receitas próprias,
 Aplicação C# com back-end funcional implantado na Microsoft Azure e protótipo de UX/UI no Figma.
 
 - **Stack:** C#, Microsoft Azure, Figma
-- ✅ **Destaque:** projeto concluído em equipe reduzida (de 6 para 3 integrantes), com foco em resiliência e entrega sob prazo.
+- **Destaque:** projeto concluído em equipe reduzida (de 6 para 3 integrantes), com foco em resiliência e entrega sob prazo.
 
 <p>
   <img src="screens/finanshare-1.jpg" width="330" alt="FinanShare: boas-vindas">
@@ -105,7 +105,7 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 
 - **Stack:** PHP 8.4 + Laravel 13, MySQL, JWT, React 19 + TypeScript + Vite, Tailwind CSS 4, TanStack Query, UaiRango Connect (OAuth 2.0), Docker
 - **Testes:** PHPUnit, Vitest, Playwright
-- ✅ **Resultados:** 304 testes de backend e 255 de frontend, todos aprovados (18/10/2026).
+- **Resultados:** 304 testes de backend e 255 de frontend, todos aprovados (18/10/2026).
 
 <p>
   <img src="screens/orbis-1.jpg" width="330" alt="Orbis: vendas">
@@ -117,7 +117,7 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 
 ---
 
-## 🛠️ Habilidades
+## Habilidades
 
 | Área | Ferramentas e tecnologias |
 |---|---|
@@ -130,7 +130,7 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 | **Ferramentas e fluxo** | Git / GitHub, GitHub Actions (CI/CD), Figma, Trello |
 | **Metodologias ágeis** | Scrum, Kanban |
 
-## 🎓 Cursos e certificações
+## Cursos e certificações
 
 - **Robot Framework: Automatizando Testes no Padrão BDD** — Alura
 - **Cypress: Automatizando Testes E2E** — Alura
@@ -140,8 +140,8 @@ PDV integrado ao controle de estoque, à API de pedidos do UaiRango e a dashboar
 
 ---
 
-## ☕ Vamos conversar?
+## Vamos conversar?
 
 Gosto de produtos bem pensados, de bugs encontrados antes de virarem problema e de uma boa conversa sobre qualidade. Se isso soa familiar, chega mais: um café, um e-mail ou uma mensagem já é um ótimo começo.
 
-📫 [emanueldh597@gmail.com](mailto:emanueldh597@gmail.com) • [LinkedIn](https://www.linkedin.com/in/emanuel-mendoncaa/) • [Portfólio](https://emanuel-mendonca.github.io)
+[emanueldh597@gmail.com](mailto:emanueldh597@gmail.com) • [LinkedIn](https://www.linkedin.com/in/emanuel-mendoncaa/) • [Portfólio](https://emanuel-mendonca.github.io)
