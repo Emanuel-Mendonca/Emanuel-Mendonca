@@ -65,6 +65,8 @@ Cada projeto tem galeria de telas, stack completa e link do repositório no port
 
 19 cursos e certificações em QA, automação, agilidade, desenvolvimento e vendas, entre eles Robot Framework, Cypress, Quality Assurance (plano de testes e gestão de bugs), Git e GitHub, Scrum e Kanban, Engenharia de Prompt (MBA USP/Esalq) e as qualificações da PUC Minas. Cada um com o link da credencial: **[ver certificações](https://emanuel-mendonca.github.io/#certifications)**.
 
+Inglês em andamento, em aulas particulares com a professora Éllen Akemi ([@ellennakemi](https://www.instagram.com/ellennakemi/)), desde jun. 2026.
+
 ## Fora do código
 
 Atrás de todo teste bem feito existe uma pessoa. Fora da tela, sou mais de montanha, de balcão de bar, de mesa cheia e de conversa boa.
